@@ -1,0 +1,19 @@
+# Sensitive database configuration
+connect.php
+.env
+.env.*
+
+# Editor settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.log
+*.tmp
+
+# Exclude unrelated PowerPoint report
+images/lalit project report website.pptx
